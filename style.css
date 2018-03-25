@@ -15,3 +15,18 @@ body {
 	align-items: center;
 	background-color: #111;
 }
+
+.hangman {
+	display: flex;
+	flex-direction: column;
+	width: 90vmin;
+	height: 60vmin;
+	border: 2vmin solid white;
+	background-color: white;
+}
+
+
+
+button {
+	font-family: 'Montserrat', sans-serif;
+}
